@@ -1,0 +1,86 @@
+[
+    {
+        "title": "ishq",
+        "author": "zoha",
+        "publication_year": "2023",
+        "genre": "fff",
+        "read": true
+    },
+    {
+        "title": "Baten",
+        "author": "Zoha Aslam",
+        "publication_year": "220",
+        "genre": "no",
+        "read": true
+    },
+    {
+        "title": "Kahaniya",
+        "author": "Aslam",
+        "publication_year": "2024",
+        "genre": "hum",
+        "read": true
+    },
+    {
+        "title": "barish",
+        "author": "mohsin",
+        "year": "4000",
+        "genre": "yup",
+        "read": false
+    },
+    {
+        "title": "duniya",
+        "author": "ammi",
+        "year": "300",
+        "genre": "no",
+        "read": false
+    },
+    {
+        "title": "school",
+        "author": "ahad",
+        "publication_year": "2009",
+        "genre": "dict",
+        "read": false
+    },
+    {
+        "title": "book",
+        "author": "zoha",
+        "publication_year": "2000",
+        "genre": "no",
+        "read": false
+    },
+    {
+        "title": "old",
+        "author": "aslam",
+        "publication_year": "2000",
+        "genre": "horror",
+        "read": false
+    },
+    {
+        "title": "new",
+        "author": "zoha",
+        "year": "20",
+        "genre": "no",
+        "read": false
+    },
+    {
+        "title": "my book",
+        "author": "mre",
+        "year": "60",
+        "genre": "no",
+        "read": false
+    },
+    {
+        "title": "my new",
+        "author": "zoha",
+        "year": "1-00",
+        "genre": "no",
+        "read": false
+    },
+    {
+        "title": "new book",
+        "author": "zoha",
+        "year": "8000",
+        "genre": "n",
+        "read": true
+    }
+]
